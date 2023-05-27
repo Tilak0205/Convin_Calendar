@@ -1,6 +1,8 @@
 # Convin_Calendar
 
 pip install django
+
+
 pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
 open the main folder and run
